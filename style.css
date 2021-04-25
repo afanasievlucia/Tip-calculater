@@ -1,0 +1,31 @@
+body {
+    background-image: url(./Wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.style {
+    font-size: 15px;
+    margin-left: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(107, 227, 243, 0.116);
+}
+
+#radio-btns {
+    margin: 0 20px 0 20px;
+}
+
+label, p {
+    font-size: 20px;
+}
+
+#calcBtn {
+    margin-top: 30px;
+}
+span {
+    color:black;
+}
